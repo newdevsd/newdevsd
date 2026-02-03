@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hey, I'm Alex
 
-<!--
-**newdevsd/newdevsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just got hired 🎉  
+Still trying to figure things out, but excited to finally be working as a developer.
 
-Here are some ideas to get you started:
+### 🏢 About Work
+- First week on the job 😅
+- Setting up accounts & tools
+- Reading a *lot* of docs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools I'm Using
+- Git / GitHub (still learning tbh)
+- VS Code
+- Chrome DevTools
+
+### 📝 Notes to Self
+- Don't forget to push changes
+- Ask questions, even if they feel dumb
+- Update README later
+
+### 📫 Contact
+Work email is set up now:  
+alex [at] newcompany [dot] internal
+
+<!-- RElDVHtkaWN0LWNhcn0= -->
